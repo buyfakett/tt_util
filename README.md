@@ -1,5 +1,8 @@
 <h1 align="center">tt_util</h1>
 
+## 此仓库已迁移至组织
+[点击跳转](https://github.com/ttutils/tt_util)
+
 此项目是根据[@buyfakett](https://github.com/buyfakett)的python使用习惯自己封装打包的包
 
 - yaml_util.py
